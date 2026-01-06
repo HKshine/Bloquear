@@ -36,4 +36,19 @@ Caso o acesso seja feito por um PC, o script:
 - **CSS3** – Estilização da mensagem de bloqueio  
 
 ## 📂 Estrutura do Projeto
+projeto/
+│
+├── index.php
+├── bloquepc.php
+└── README.md
 
+
+## 🔗 Como Usar
+
+Inclua o arquivo `bloquepc.php` no início de qualquer página que deseja proteger:
+
+```php
+<?php include 'bloquepc.php'; ?>
+⚠️ O include deve estar antes de qualquer saída HTML.
+```
+## Este Script foi desemvolvido pensando nos DEVS (em faze de criação de um site que não deve ser ainda aberto no PC para teste).
