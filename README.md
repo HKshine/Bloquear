@@ -52,3 +52,14 @@ Inclua o arquivo `bloquepc.php` no início de qualquer página que deseja proteg
 ⚠️ O include deve estar antes de qualquer saída HTML.
 ```
 ## Este Script foi desemvolvido pensando nos DEVS (em faze de criação de um site que não deve ser ainda aberto no PC para teste).
+👨‍💻 Autor
+
+Nerú Shine
+🔐 Ethical Hacker & Desenvolvedor Web
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
+Você pode usar, modificar e distribuir livremente.
+
+⭐ Se este script foi útil, deixe uma estrela no repositório!
